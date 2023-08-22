@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <div align="center">
   <a href="https://github.com/Saeid-Barzegar/deep-dive-in-javascript">
-    <img style="border-radius: 15px;" src="images/JavaScript_logo.svg" alt="Logo" width="100" height="100">
+    <img style="border-radius: 15px;" src="images/JavaScript_logo.svg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">JavaScript Concepts in Depth!</h3>
@@ -26,7 +26,7 @@
 ## Table Of Contents
 <ol style="margin-top: 10px">
   <li><a href="#read-bofore-start">Read Bofore Start</a></li>
-  <li><a href="#chapter-1">Chapter 1: Engine and Runtime</a></li>
+  <li><a href="#chapter-1-engine-and-runtime">Chapter 1: Engine and Runtime</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ol>
@@ -41,9 +41,7 @@ This collection is all about the important aspects of JavaScript, with the main 
 
 
 
-# Chapter 1:
-
-### Engine and Runtime
+# Chapter 1: Engine and Runtime
 
 ### Javascript Runtime:
 
@@ -55,16 +53,16 @@ We can say, the JavaScript runtime is a program that extends the JavaSciript eng
 
 <i>The list below includes the key concepts of JavaScript runtimes. We'll provide a brief overview for each and go through them one by one as we proceed.</i>
 
-1. <a href="#1-javascript-engine"><b>JavaScript Engine</b></a>
-2. <a href="#2-event-loop"><b>Event Loop</b></a> 
-3. <a href="#3-promises-and-asyncawait"><b>Promises and Async/Await</b></a> 
-4. <a href="#4-memory-management"><b>Memory Management</b></a> 
-5. <a href="#5-global-object"><b>Global Object</b></a> 
-6. <a href=""><b>Environment-specific APIs</b></a> 
-7. <a href=""><b>Modules and Scoping</b></a> 
-8. <a href=""><b>Concurrency Model</b></a> 
-9. <a href=""><b>Error Handling</b></a> 
-10. <a href=""><b>Event Emitters and Event Handling</b></a> 
+1. <a href="#1-javascript-engine">JavaScript Engine</a>
+2. <a href="#2-event-loop">Event Loop</a> 
+3. <a href="#3-promises-and-asyncawait">Promises and Async/Await</a> 
+4. <a href="#4-memory-management">Memory Management</a> 
+5. <a href="#5-global-object">Global Object</a> 
+6. <a href="">Environment-specific APIs</a> 
+7. <a href="">Modules and Scoping</a> 
+8. <a href="">Concurrency Model</a> 
+9. <a href="">Error Handling</a> 
+10. <a href="">Event Emitters and Event Handling</a> 
 
 
 <hr />
