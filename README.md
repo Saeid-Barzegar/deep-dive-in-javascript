@@ -26,23 +26,18 @@
 ## Table Of Contents
 <ol style="margin-top: 10px">
   <li><a href="#about-the-project">Read Bofore Start</a></li>
-  <li>
-    <a href="#getting-started">Chapter 1: Engine and Runtime</a>
-    <!-- <ul>
-      <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#installation">Installation</a></li>
-    </ul> -->
-  </li>
+  <li><a href="#getting-started">Chapter 1: Engine and Runtime</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ol>
 
 
 ## Read Bofore Start
-This collection is all about the important aspects of JavaScript, with the main focus being on key concepts to understand what exactly JavaScript is and how it works in depth. The basics of syntax learning will be skipped while ensuring it doesn't compromise the core understanding <br /> Then it's important to know before start:
+This collection is all about the important aspects of JavaScript, with the main focus being on key concepts to understand what exactly JavaScript is and how it works in depth. The basics of syntax learning will be skipped while ensuring it doesn't compromise the core understanding 
+<br /><br /> Then it's important to know before start:
 * It's not a zero to mastery course!
 * Prior familiarity with JavaScript basics is recommended before diving in.
-* This repository is open for collaboration, inviting everyone to contribute and enhance its comprehensiveness and usability for a global audience.
+* This repository will be open for collaboration, inviting everyone to contribute and enhance its comprehensiveness and usability for a global audience.
 
 
 
